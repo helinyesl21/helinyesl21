@@ -1,14 +1,3 @@
-## Hi there 👋 HELİN YEŞİL 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Merhaba 👋, ben HELİN YEŞİL</h1>
 <h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricisi</h3>
 
@@ -19,13 +8,12 @@
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 <a href="https://instagram.com/yesil-helinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yesil-helinn" height="30" width="40" /></a>
-<a href="https://discord.gg/helinyesil." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="helinyesil." yükseklik="30" genişlik="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" genişlik="40" yükseklik="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" hedef="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://cloud.google.com" hedef="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" genişlik="40" yükseklik="40"/> </a> <a href="https://git-scm.com/" hedef="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" genişlik="40" yükseklik="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" genişlik="40" yükseklik="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" genişlik="40" yükseklik="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" genişlik="40" yükseklik="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helinyesl21&show_icons=true&locale=tr&layout=compact" alt="helinyesl21" /></p>
+<p><img hizala="sol" src="https://github-readme-stats.vercel.app/api/top-langs?username=helinyesl21&show_icons=true&locale=tr&layout=compact" alt="helinyesl21" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=helinyesl21&show_icons=true&locale=tr" alt="helinyesl21" /></p>
 
@@ -33,12 +21,5 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulakin" alt="gulakin" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Şu anda **kodluyoruz** üzerinde çalışıyorum
-
-- 🌱 Şu anda **flutter, android studio, git, github** öğreniyorum
-
-- 📫 Bana nasıl ulaşabilirsiniz **helinyesil234@gmail.com**
