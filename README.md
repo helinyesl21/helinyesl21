@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 👋 HELİN YEŞİL 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,3 +9,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gulakin&label=Profile%20views&color=0e75b6&style=flat" alt="gulakin" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulakin" alt="gulakin" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 Şu anda **kodluyoruz** üzerinde çalışıyorum
+
+- 🌱 Şu anda **flutter, android studio, git, github** öğreniyorum
+
+- 📫 Bana nasıl ulaşabilirsiniz **helinyesil234@gmail.com**
